@@ -69,6 +69,9 @@ a {
     height: 40px;
     margin: 0 5px;
 }
+.account .iconfont:hover {
+    background-color: #3d88f4;
+}
 
 /*同类字体设置*/
 h1,
@@ -230,6 +233,9 @@ body {
 #portfolio .content a img {
     display: block;
     width: 100%;
+}
+#portfolio .content a img:hover {
+    background-color: #3d88f4;
 }
 
 /*about*/
@@ -402,6 +408,6 @@ footer .row .col-md-1 li {
     padding: 0 5px;
 }
 footer .row .col-md-1 li a {
-    color: #3d88f4;
+    color: #fff;
     font-weight: 700;
 }
